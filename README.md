@@ -1,5 +1,5 @@
-
-
+It Dynamically fetches all the google ebooks available from google Api
+Also has the ability to store permanently store bookmarks 
 ### `npm start`
 
 Runs the app in the development mode.\
